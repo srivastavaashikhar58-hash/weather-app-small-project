@@ -105,5 +105,8 @@ This project is open-source and free to use.
 ## 🙌 Acknowledgements
 
 * OpenWeather API for providing weather data
+* 
+* ## 🚀 Live Demo
+https://your-app.netlify.app
 
 ---
